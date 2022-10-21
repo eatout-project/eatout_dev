@@ -4,3 +4,6 @@
 [submodule "restaurant_service"]
 	path = restaurant_service
 	url = git@github.com:eatout-project/restaurant_service.git
+[submodule "eatout_corporate"]
+	path = eatout_corporate
+	url = git@github.com:eatout-project/eatout_corporate.git
