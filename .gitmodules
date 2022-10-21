@@ -1,0 +1,6 @@
+[submodule "eatout_web"]
+	path = eatout_web
+	url = git@github.com:eatout-project/eatout_web.git
+[submodule "restaurant_service"]
+	path = restaurant_service
+	url = git@github.com:eatout-project/restaurant_service.git
